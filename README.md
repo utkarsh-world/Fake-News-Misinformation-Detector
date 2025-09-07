@@ -1,4 +1,4 @@
-# Fake News & Misinformation Detector — 1-day demo
+# Fake News & Misinformation Detector —
 
 ## Quick setup (local)
 1. Create venv:
