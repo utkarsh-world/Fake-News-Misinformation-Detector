@@ -1,6 +1,18 @@
-streamlit
-scikit-learn
+# Core libraries
 pandas
 numpy
+
+# Machine Learning
+scikit-learn
 joblib
 tqdm
+
+# Streamlit UI
+streamlit
+
+# Google Gemini API
+google-generativeai
+
+# For explainability / charts
+matplotlib
+seaborn
